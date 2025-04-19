@@ -1,9 +1,8 @@
-- 👋 Merhaba, ben @Samedoz24
-- 👀 İlgi duyduğum konu yazılım 
-- 📊 Bu zamana kadar öğrendiklerim : HTML-CSS-JS
-- 🌱 Şu anda öğreniyorum React 
-- 📫 Bana nasıl ulaşabilirsiniz sametoz706@gmail.com
-
+- 👋 Hello, I'm @Samedoz24
+- 👀 I'm interested in software
+- 📊 What I've learned so far: HTML-CSS-JS
+- 🌱 I'm currently learning React
+- 📫 How can you reach me sametoz706@gmail.com
 
 <!---
 Samedoz24/Samedoz24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
